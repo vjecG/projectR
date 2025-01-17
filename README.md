@@ -1,2 +1,1 @@
-# projectR
-A uni project 
+# projektR - Analiza sustava preporuke na primjeru filmova
